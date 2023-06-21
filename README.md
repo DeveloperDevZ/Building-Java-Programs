@@ -1,0 +1,2 @@
+Building Java Programs is a collection of problem sets from a namesake book, Building Java Programs by Stuart Reges and Marty Stepp. It is a repository containing both the precomiled java files as well as their compiled class file analogs. Feel free to explore this repository. ![BJP](https://github.com/zeAddiss/Building-Java-Programs/assets/93976280/8b36d20a-83a6-4b16-9007-98216c535fbb)
+![BJP](https://github.com/zeAddiss/Building-Java-Programs/assets/93976280/572106a4-c765-4cc5-976f-85cf5304b16e)
